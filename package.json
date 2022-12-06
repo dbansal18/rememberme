@@ -8,7 +8,7 @@
   "dependencies": {
     "connect-flash": "0.1.x",
     "ejs-locals": "1.x.x",
-    "express": "3.x.x",
+    "express": "4.x.x",
     "passport": "0.1.x",
     "passport-local": "0.1.x",
     "passport-remember-me": "0.0.1"
